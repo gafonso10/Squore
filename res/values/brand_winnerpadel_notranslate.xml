@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name_short_brand__WinnerPadel">Winner Padel</string>
+
+    <bool name="useFeedAndPostFunctionality_default__WinnerPadel">false</bool>
+    <bool name="useSinglesMatches_default__WinnerPadel">false</bool>
+    <bool name="useMyListFunctionality__WinnerPadel">false</bool>
+    <bool name="useInjuryTimers__WinnerPadel">false</bool>
+    <bool name="isPublicApp__WinnerPadel">false</bool>
+
+    <bool name="useMatchFromFeed__WinnerPadel">false</bool>
+    <bool name="useSinglesMatch__WinnerPadel">false</bool>
+    <bool name="useWarmup__WinnerPadel">false</bool>
+    <bool name="useReferees__WinnerPadel">false</bool>
+
+    <string-array name="colorSchema__WinnerPadel" translatable="false">
+        <item>|name                  |Color1 |Color2 |Color3 |Color9 |</item>
+        <item>|Winner Padel          |#2196f3|#080808|#e3ff00|#FFFFFF|</item><!-- blue|black|yellow... -->
+        <item>|IPF Light             |#1C3755|#D63E2D|#7BB0E7|#FFFFFF|</item><!-- purple|red|blue... -->
+        <item>|IPF Dark              |#1C3755|#D63E2D|#7BB0E7|#000000|</item><!-- purple|red|blue... -->
+    </string-array>
+
+    <string-array name="initialPlayerColor__WinnerPadel">
+        <item>#2196f2</item> <!-- just slightly deviating from the rest of colors in the palette, so it is not seen as a default color -->
+        <item>#080807</item>
+    </string-array>
+
+    <string-array name="ShowPlayerColorOn__WinnerPadel" tools:ignore="InconsistentArrays">
+        <item>ScoreButton</item>
+        <item>ScoreButtonBorder</item>
+        <item>PlayerButton</item>
+    </string-array>
+
+    <integer name="preferWhiteOverBlackThreshold__WinnerPadel">70</integer>
+
+</resources>
