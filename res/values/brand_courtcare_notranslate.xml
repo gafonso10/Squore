@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name_short_brand__CourtCare">CourtScore</string>
+    <string name="app_name_short_brand__UniOfNotthingham">CourtScore UoN</string>
+
+<!--
+    CourtCare       (SportType.Squash     , R.string.app_name_short_brand__CourtCare       , 0, R.drawable.brand_courtcare                , R.id.sb_branded_logo_ar400, R.color.brand_courtcare_bg_color       , R.string.REMOTE_DISPLAY_APP_ID_brand_courtcare       , R.array.colorSchema_CourtCare  , R.string.brand_courtcare_color_name_re       , 4000, "https://squore.double-yellow.be", "060fa379-fc13-448d-b17a-87468ddd02ce", R.raw.changelog_courtcare),
+    UniOfNotthingham(sportType.Squash     , R.string.app_name_short_brand__UniOfNotthingham, 0, R.drawable.brand_courtcare/*_uoncolors*/  , R.id.sb_branded_logo_ar400, R.color.brand_uniofnotthingham_bg_color, R.string.REMOTE_DISPLAY_APP_ID_brand_courtcare       , R.array.colorSchema_UoN        , R.string.brand_uniofnotthingham_color_name_re, 4000, "https://squore.double-yellow.be", "a83bd93b-bcff-4b33-b26e-24f45d2f0d5f", R.raw.changelog_courtcare),
+-->
+    <string name="REMOTE_DISPLAY_APP_ID_brand_courtcare">BF2E4D1B</string>
+    <!--<string name="REMOTE_DISPLAY_APP_ID_brand_uniofnotthingham">E6F9858F</string> Accidentally Unregistered-->
+
+</resources>
